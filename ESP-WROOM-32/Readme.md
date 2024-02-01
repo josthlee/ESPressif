@@ -11,3 +11,6 @@
 ![esp-vroom-32-devkitv1](https://github.com/josthlee/ESPressif/assets/154501794/9c0181c5-7a5c-4bd9-86f9-ee5df0911ba4)
 ![ESP32-Pinout-1](https://github.com/josthlee/ESPressif/assets/154501794/643b0824-b3bf-4136-9c0c-7ba06302a7ce)
 
+# ESPressif Official Specification
+
+[esp32-wroom-32_datasheet_en.pdf](esp32-wroom-32_datasheet_en.pdf)
