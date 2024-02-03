@@ -1,3 +1,7 @@
+The ESP12E and ESP12F are two variants of the popular ESP8266 WiFi-enabled microcontroller. There have been several variants of the board manufactured by different companies, each with different features. In this article, we will take a look at the differences between ESP12E and ESP12F.
+
+<b>The ESP12F is a newer and more updated version of the ESP12E and features a better antenna design, hence the better output power.</b>
+
 # PCB Print "ESP-12F"
 * ESP8266MOD CH340
 * NodeMCU Lua V3
