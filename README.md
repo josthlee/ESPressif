@@ -19,3 +19,8 @@ The ESP32 supports Bluetooth while the ESP8266 doesn’t;
 The ESP32 is dual-core (most models), and the ESP8266 is single core;
 The ESP32 is a bit more expensive than the ESP8266.
 
+
+# Built-in LED PIN number
+
+![30691717762039_ pic](https://github.com/josthlee/ESPressif/assets/154501794/799ee508-717d-43d1-b4ab-49aaa87a8cd8)
+
