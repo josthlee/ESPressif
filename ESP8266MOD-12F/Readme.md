@@ -17,5 +17,5 @@ The ESP12E and ESP12F are two variants of the popular ESP8266 WiFi-enabled micro
 
 
 # NodeMCU Offcial Site
-http://www.nodemcu.com/
-https://nodemcu.readthedocs.io/
+* http://www.nodemcu.com/
+* https://nodemcu.readthedocs.io/
